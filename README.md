@@ -1,3 +1,8 @@
+JS app that allows user to enter text and either underline, strike or overline when the text block is submitted.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
