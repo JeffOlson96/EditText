@@ -9,7 +9,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <TopNavigationBar />
-        <p className="App-header">Dirty Fucking Dangles Bois
+        <p className="App-header">
           {/*<img className="hockeyplayers" src='./images/Letterkenny1.jpg' width="200" height="200"></img>*/}
         </p>
       </div>
